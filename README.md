@@ -2,7 +2,7 @@
 
 Version: 1  
 Status: Stable  
-License: Public Domain (Creative Commons Zero v1.0 Universal)
+License: [Public Domain (Creative Commons Zero v1.0 Universal)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
 
